@@ -1,0 +1,3 @@
+# vamos ignorar o arquivo node_modules senao vai demorar mt pra enviar pro github
+
+node_modules
